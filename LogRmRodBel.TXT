@@ -1,0 +1,236 @@
+0;14/03/2019;13:46;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 13:46          
+0;14/03/2019;13:47;00559;Afastados                    ;Retorno de Afastamento Periodo de 2017-06-19 00:00:00.0
+0;14/03/2019;13:47;02098;Afastados                    ;Retorno de Afastamento Periodo de 2004-02-26 00:00:00.0
+0;14/03/2019;13:47;02350;Afastados                    ;Retorno de Afastamento Periodo de 2008-11-04 00:00:00.0
+0;14/03/2019;13:47;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 13:47       
+0;14/03/2019;13:49;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 13:49          
+0;14/03/2019;13:56;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 13:56       
+0;14/03/2019;13:58;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 13:58          
+0;14/03/2019;14:01;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:01          
+2;14/03/2019;14:06;0000 ;Ferias                       ;Incorrect syntax near '14'.                            
+0;14/03/2019;14:13;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:13          
+0;14/03/2019;14:16;1961 ;Ferias                       ;Retorno de Ferias Periodo de 25/02/2019 a 26/03/2019   
+0;14/03/2019;14:17;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 14:17       
+0;14/03/2019;14:30;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:30          
+0;14/03/2019;14:30;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:30          
+0;14/03/2019;14:31;1961 ;Ferias                       ;Retorno de Ferias Periodo de 25/02/2019 a 26/03/2019   
+0;14/03/2019;14:31;1995 ;Ferias                       ;Retorno de Ferias Periodo de 18/02/2019 a 19/03/2019   
+0;14/03/2019;14:32;2170 ;Ferias                       ;Retorno de Ferias Periodo de 13/03/2019 a 18/03/2019   
+0;14/03/2019;14:32;2314 ;Ferias                       ;Retorno de Ferias Periodo de 25/02/2019 a 26/03/2019   
+0;14/03/2019;14:33;2612 ;Ferias                       ;Retorno de Ferias Periodo de 12/03/2019 a 17/03/2019   
+0;14/03/2019;14:33;2700 ;Ferias                       ;Retorno de Ferias Periodo de 11/03/2019 a 09/04/2019   
+0;14/03/2019;14:33;2848 ;Ferias                       ;Retorno de Ferias Periodo de 09/03/2019 a 14/03/2019   
+0;14/03/2019;14:33;2856 ;Ferias                       ;Retorno de Ferias Periodo de 14/03/2019 a 19/03/2019   
+0;14/03/2019;14:33;3406 ;Ferias                       ;Retorno de Ferias Periodo de 13/03/2019 a 27/03/2019   
+0;14/03/2019;14:33;3448 ;Ferias                       ;Retorno de Ferias Periodo de 28/02/2019 a 19/03/2019   
+0;14/03/2019;14:34;3510 ;Ferias                       ;Retorno de Ferias Periodo de 11/03/2019 a 15/03/2019   
+0;14/03/2019;14:34;3615 ;Ferias                       ;Retorno de Ferias Periodo de 04/03/2019 a 02/04/2019   
+0;14/03/2019;14:34;3705 ;Ferias                       ;Retorno de Ferias Periodo de 26/02/2019 a 17/03/2019   
+0;14/03/2019;14:34;3773 ;Ferias                       ;Retorno de Ferias Periodo de 11/03/2019 a 30/03/2019   
+0;14/03/2019;14:34;3977 ;Ferias                       ;Retorno de Ferias Periodo de 07/03/2019 a 05/04/2019   
+0;14/03/2019;14:35;4136 ;Ferias                       ;Retorno de Ferias Periodo de 11/03/2019 a 09/04/2019   
+0;14/03/2019;14:35;4148 ;Ferias                       ;Retorno de Ferias Periodo de 01/03/2019 a 30/03/2019   
+0;14/03/2019;14:35;4168 ;Ferias                       ;Retorno de Ferias Periodo de 01/03/2019 a 30/03/2019   
+0;14/03/2019;14:35;4177 ;Ferias                       ;Retorno de Ferias Periodo de 07/03/2019 a 26/03/2019   
+0;14/03/2019;14:36;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 14:36       
+0;14/03/2019;14:39;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:39          
+0;14/03/2019;14:47;0000 ;Ferias                       ;Nao ha Ferias no periodo de 14/03/2019 14:47           
+0;14/03/2019;14:47;0000 ;Atestados                    ;Nao ha Atestado no periodo de 14/03/2019 14:47         
+0;14/03/2019;14:54;0000 ;Atestados                    ;Nao ha Atestado no periodo de 14/03/2019 14:54         
+0;14/03/2019;14:54;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 14:54       
+0;14/03/2019;14:56;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 14:56          
+0;14/03/2019;14:59;00619;Atestados                    ;Atestado no Inicio de 2004-04-29 00:00:00.0000000 a 29/
+0;14/03/2019;14:59;00624;Atestados                    ;Atestado no Inicio de 2019-01-16 00:00:00.0000000 a 30/
+0;14/03/2019;14:59;01715;Atestados                    ;Atestado no Inicio de 2002-03-18 00:00:00.0000000 a 01/
+0;14/03/2019;14:59;01866;Atestados                    ;Atestado no Inicio de 2016-12-20 00:00:00.0000000 a 25/
+0;14/03/2019;15:00;01886;Atestados                    ;Atestado no Inicio de 2009-01-22 00:00:00.0000000 a 05/
+0;14/03/2019;15:09;01961;Atestados                    ;Atestado no Inicio de 2018-12-20 00:00:00.0000000 a 21/
+0;14/03/2019;15:09;01970;Atestados                    ;Atestado no Inicio de 2014-06-02 00:00:00.0000000 a 16/
+0;14/03/2019;15:09;01995;Atestados                    ;Atestado no Inicio de 2019-01-01 00:00:00.0000000 a 05/
+0;14/03/2019;15:10;02170;Atestados                    ;Atestado no Inicio de 2012-01-26 00:00:00.0000000 a 26/
+0;14/03/2019;15:10;02314;Atestados                    ;Atestado no Inicio de 2018-11-06 00:00:00.0000000 a 06/
+0;14/03/2019;15:10;02347;Atestados                    ;Atestado no Inicio de 2007-01-15 00:00:00.0000000 a 29/
+0;14/03/2019;15:10;02504;Atestados                    ;Atestado no Inicio de 2017-04-24 00:00:00.0000000 a 24/
+0;14/03/2019;15:10;02508;Atestados                    ;Atestado no Inicio de 2013-08-29 00:00:00.0000000 a 07/
+0;14/03/2019;15:10;02581;Atestados                    ;Atestado no Inicio de 2012-11-05 00:00:00.0000000 a 19/
+0;14/03/2019;15:10;02590;Atestados                    ;Atestado no Inicio de 2008-05-28 00:00:00.0000000 a 11/
+0;14/03/2019;15:10;02612;Atestados                    ;Atestado no Inicio de 2018-02-19 00:00:00.0000000 a 20/
+0;14/03/2019;15:10;02639;Atestados                    ;Atestado no Inicio de 2006-11-17 00:00:00.0000000 a 01/
+0;14/03/2019;15:10;02700;Atestados                    ;Atestado no Inicio de 2017-08-19 00:00:00.0000000 a 19/
+0;14/03/2019;15:10;02731;Atestados                    ;Atestado no Inicio de 2009-05-28 00:00:00.0000000 a 04/
+0;14/03/2019;15:10;02753;Atestados                    ;Atestado no Inicio de 2010-07-21 00:00:00.0000000 a 22/
+0;14/03/2019;15:10;02796;Atestados                    ;Atestado no Inicio de 2018-12-21 00:00:00.0000000 a 22/
+0;14/03/2019;15:10;02848;Atestados                    ;Atestado no Inicio de 2018-07-24 00:00:00.0000000 a 24/
+0;14/03/2019;15:10;02856;Atestados                    ;Atestado no Inicio de 2018-04-25 00:00:00.0000000 a 28/
+0;14/03/2019;15:10;02867;Atestados                    ;Atestado no Inicio de 2007-06-08 00:00:00.0000000 a 12/
+0;14/03/2019;15:10;02925;Atestados                    ;Atestado no Inicio de 2008-09-22 00:00:00.0000000 a 06/
+0;14/03/2019;15:10;03150;Atestados                    ;Atestado no Inicio de 2019-01-11 00:00:00.0000000 a 25/
+0;14/03/2019;15:10;03252;Atestados                    ;Atestado no Inicio de 2009-05-12 00:00:00.0000000 a 18/
+0;14/03/2019;15:10;03271;Atestados                    ;Atestado no Inicio de 2018-09-01 00:00:00.0000000 a 05/
+0;14/03/2019;15:10;03406;Atestados                    ;Atestado no Inicio de 2018-08-20 00:00:00.0000000 a 20/
+0;14/03/2019;15:10;03430;Atestados                    ;Atestado no Inicio de 2012-08-17 00:00:00.0000000 a 17/
+0;14/03/2019;15:10;03448;Atestados                    ;Atestado no Inicio de 2018-11-08 00:00:00.0000000 a 08/
+0;14/03/2019;15:10;03499;Atestados                    ;Atestado no Inicio de 2018-09-12 00:00:00.0000000 a 26/
+0;14/03/2019;15:10;03510;Atestados                    ;Atestado no Inicio de 2018-05-07 00:00:00.0000000 a 09/
+0;14/03/2019;15:10;03529;Atestados                    ;Atestado no Inicio de 2018-12-05 00:00:00.0000000 a 19/
+0;14/03/2019;15:10;03615;Atestados                    ;Atestado no Inicio de 2015-06-11 00:00:00.0000000 a 13/
+0;14/03/2019;15:10;03668;Atestados                    ;Atestado no Inicio de 2013-01-18 00:00:00.0000000 a 01/
+0;14/03/2019;15:10;03705;Atestados                    ;Atestado no Inicio de 2018-03-23 00:00:00.0000000 a 27/
+0;14/03/2019;15:10;03773;Atestados                    ;Atestado no Inicio de 2017-09-05 00:00:00.0000000 a 05/
+0;14/03/2019;15:11;03943;Atestados                    ;Retorno de Atestado Periodo de 2018-10-16 00:00:00.0000
+0;14/03/2019;15:12;03977;Atestados                    ;Atestado no Inicio de 2018-12-04 00:00:00.0000000 a 18/
+0;14/03/2019;15:12;04121;Atestados                    ;Atestado no Inicio de 2019-02-06 00:00:00.0000000 a 06/
+0;14/03/2019;15:12;04136;Atestados                    ;Atestado no Inicio de 2018-08-27 00:00:00.0000000 a 10/
+0;14/03/2019;15:12;04148;Atestados                    ;Atestado no Inicio de 2017-08-01 00:00:00.0000000 a 01/
+0;14/03/2019;15:12;04168;Atestados                    ;Atestado no Inicio de 2019-02-12 00:00:00.0000000 a 26/
+0;14/03/2019;15:12;04177;Atestados                    ;Atestado no Inicio de 2019-02-27 00:00:00.0000000 a 27/
+0;14/03/2019;15:12;04247;Atestados                    ;Atestado no Inicio de 2018-12-01 00:00:00.0000000 a 13/
+2;14/03/2019;15:12;0000 ;Atestados                    ;[DBNETLIB][ConnectionWrite (send()).]General network er
+0;14/03/2019;15:12;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 15:12       
+0;14/03/2019;15:20;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 15:20          
+0;14/03/2019;15:28;0000 ;Atestados                    ;Nao ha Atestado no periodo de 14/03/2019 15:28         
+0;14/03/2019;15:31;0000 ;Desligados                   ;Nao ha Desligamento no periodo de 14/03/2019 15:31     
+0;14/03/2019;15:32;0000 ;Desligados                   ;Nao ha Desligamento no periodo de 14/03/2019 15:32     
+0;14/03/2019;15:33;00619;Afastados                    ;Afastando no Inicio de 2000-02-02 00:00:00.0000000     
+0;14/03/2019;15:33;00624;Afastados                    ;Afastando no Inicio de 2019-01-16 00:00:00.0000000     
+0;14/03/2019;15:33;01715;Afastados                    ;Afastando no Inicio de 2002-03-20 00:00:00.0000000     
+0;14/03/2019;15:33;01866;Afastados                    ;Afastando no Inicio de 2016-12-11 00:00:00.0000000     
+0;14/03/2019;15:33;01886;Afastados                    ;Afastando no Inicio de 2011-11-23 00:00:00.0000000     
+0;14/03/2019;15:33;01970;Afastados                    ;Afastando no Inicio de 2014-06-02 00:00:00.0000000     
+0;14/03/2019;15:33;02347;Afastados                    ;Afastando no Inicio de 2010-03-27 00:00:00.0000000     
+0;14/03/2019;15:33;02504;Afastados                    ;Afastando no Inicio de 2017-05-04 00:00:00.0000000     
+0;14/03/2019;15:33;02508;Afastados                    ;Afastando no Inicio de 2013-08-24 00:00:00.0000000     
+0;14/03/2019;15:33;02581;Afastados                    ;Afastando no Inicio de 2012-11-05 00:00:00.0000000     
+0;14/03/2019;15:33;02590;Afastados                    ;Afastando no Inicio de 2015-02-15 00:00:00.0000000     
+0;14/03/2019;15:33;02639;Afastados                    ;Afastando no Inicio de 2006-11-19 00:00:00.0000000     
+0;14/03/2019;15:33;02731;Afastados                    ;Afastando no Inicio de 2016-08-05 00:00:00.0000000     
+0;14/03/2019;15:33;02753;Afastados                    ;Afastando no Inicio de 2013-01-10 00:00:00.0000000     
+0;14/03/2019;15:33;02796;Afastados                    ;Afastando no Inicio de 2019-01-05 00:00:00.0000000     
+0;14/03/2019;15:33;02867;Afastados                    ;Afastando no Inicio de 2009-01-19 00:00:00.0000000     
+0;14/03/2019;15:33;02925;Afastados                    ;Afastando no Inicio de 2013-10-18 00:00:00.0000000     
+0;14/03/2019;15:33;03150;Afastados                    ;Afastando no Inicio de 2019-01-11 00:00:00.0000000     
+0;14/03/2019;15:33;03252;Afastados                    ;Afastando no Inicio de 2012-04-13 00:00:00.0000000     
+0;14/03/2019;15:33;03271;Afastados                    ;Afastando no Inicio de 2018-08-21 00:00:00.0000000     
+0;14/03/2019;15:33;03430;Afastados                    ;Afastando no Inicio de 2012-08-03 00:00:00.0000000     
+0;14/03/2019;15:33;03499;Afastados                    ;Afastando no Inicio de 2018-09-12 00:00:00.0000000     
+0;14/03/2019;15:33;03529;Afastados                    ;Afastando no Inicio de 2018-12-05 00:00:00.0000000     
+0;14/03/2019;15:33;03668;Afastados                    ;Afastando no Inicio de 2017-10-02 00:00:00.0000000     
+0;14/03/2019;15:33;04121;Afastados                    ;Afastando no Inicio de 2019-03-01 00:00:00.0000000     
+0;14/03/2019;15:33;04247;Afastados                    ;Afastando no Inicio de 2018-11-29 00:00:00.0000000     
+0;14/03/2019;15:34;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 15:34       
+0;14/03/2019;15:43;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 15:43          
+0;14/03/2019;15:47;3870 ;Desligados                   ;Desligamento Temporario, data Periodo de '20190309'    
+0;14/03/2019;15:47;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 15:47       
+0;14/03/2019;15:48;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/03/2019 15:48          
+0;14/03/2019;15:48;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 14/03/2019 15:48       
+0;26/04/2019;10:05;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/04/2019 10:05          
+0;26/04/2019;10:10;0000 ;Ferias                       ;Nao ha Ferias no periodo de 26/04/2019 10:10           
+0;26/04/2019;10:13;0000 ;Ferias                       ;Nao ha Ferias no periodo de 26/04/2019 10:13           
+0;26/04/2019;10:16;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 26/04/2019 10:16      
+0;26/04/2019;10:18;0000 ;Desligados                   ;Nao ha Desligamento no periodo de 26/04/2019 10:18     
+0;26/04/2019;10:28;0000 ;Atestados                    ;Nao ha Atestado no periodo de 26/04/2019 10:28         
+0;14/05/2019;08:42;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/05/2019 08:42          
+2;14/05/2019;08:44;0000 ;Novatos                      ;[DBNETLIB][ConnectionRead (recv()).]General network err
+2;14/05/2019;09:00;0000 ;Novatos                      ;Error converting data type varchar to numeric.         
+1;14/05/2019;09:00;8329 ;Novatos                      ;Funcionario com o Numero do PIS em brancos             
+1;14/05/2019;09:00;8330 ;Novatos                      ;Existe na TAB.(CRED_PESSOA) e não existe na (PESSOAS)  
+0;14/05/2019;09:03;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/05/2019 09:03          
+0;14/05/2019;09:05;4282 ;Novatos                      ;Inclusão Novatos, a partir de 09/05/2019               
+0;14/05/2019;14:45;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 14/05/2019 14:45          
+1;14/05/2019;14:48;8329 ;Novatos                      ;Funcionario com o Numero do PIS em brancos             
+1;14/05/2019;14:48;8330 ;Novatos                      ;Tentando incluir Func. em PESSOAS,já cadastrado        
+1;14/05/2019;14:48;8330 ;Novatos                      ;Existe na TAB.(CRED_PESSOA) e não existe na (PESSOAS)  
+1;14/05/2019;14:48;8330 ;Novatos                      ;Tentando incluir Func. em CREDENCIAIS,já cadastrado    
+0;14/05/2019;14:48;8330 ;Novatos                      ;Inclusão Novatos, a partir de 09/05/2019               
+2;14/05/2019;15:05;0000 ;Novatos                      ;Connection failure                                     
+0;15/05/2020;17:32;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 15/05/2020 17:32          
+0;15/05/2020;17:33;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 15/05/2020 17:33       
+0;18/05/2020;09:13;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 18/05/2020 09:13          
+0;18/05/2020;09:24;00619;Afastados                    ;Afastando no Inicio de 2000-02-02 00:00:00.0000000     
+0;18/05/2020;09:24;02347;Afastados                    ;Afastando no Inicio de 2010-03-27 00:00:00.0000000     
+0;18/05/2020;09:33;02590;Afastados                    ;Afastando no Inicio de 2015-02-15 00:00:00.0000000     
+0;18/05/2020;09:33;02635;Afastados                    ;Retorno de Afastamento Periodo de 2019-08-19 00:00:00.0
+0;18/05/2020;09:33;02731;Afastados                    ;Afastando no Inicio de 2016-08-05 00:00:00.0000000     
+0;18/05/2020;09:33;02867;Afastados                    ;Afastando no Inicio de 2009-01-19 00:00:00.0000000     
+0;18/05/2020;09:33;02925;Afastados                    ;Afastando no Inicio de 2013-10-18 00:00:00.0000000     
+0;18/05/2020;09:33;03668;Afastados                    ;Afastando no Inicio de 2013-01-16 00:00:00.0000000     
+2;18/05/2020;09:40;0001 ;ValeTransporte               ;Type mismatch                                          
+2;18/05/2020;09:42;0000 ;Atestados                    ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+2;18/05/2020;09:43;0000 ;Atestados                    ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;18/05/2020;09:43;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 18/05/2020 09:43          
+2;18/05/2020;09:45;0000 ;Atestados                    ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;18/05/2020;09:47;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 18/05/2020 09:47          
+2;18/05/2020;09:53;0000 ;Atestados                    ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;18/05/2020;11:03;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 18/05/2020 11:03          
+0;23/10/2020;14:20;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 23/10/2020 14:20          
+0;23/10/2020;14:23;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 23/10/2020 14:23       
+0;26/10/2020;16:43;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/10/2020 16:43          
+2;26/10/2020;16:44;0000 ;Enviar_Email                 ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;26/10/2020;18:29;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/10/2020 18:29          
+1;26/10/2020;18:52;0001 ;Enviar_Email                 ;Email enviado de Solic C/Dif ou Tipo 60, para inacio@mu
+1;26/10/2020;18:53;0001 ;Enviar_Email                 ;Email enviado de Solic C/Dif ou Tipo 60, para raquelmro
+0;27/10/2020;14:57;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 27/10/2020 14:57          
+2;27/10/2020;14:59;0000 ;Enviar_Email                 ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;27/10/2020;15:12;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 27/10/2020 15:12          
+0;17/08/2021;16:30;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 17/08/2021 16:30          
+2;17/08/2021;16:32;0000 ;CadFunSet                    ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server does 
+0;17/08/2021;16:51;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 17/08/2021 16:51          
+0;17/08/2021;17:04;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 17/08/2021 17:04          
+0;17/08/2021;17:40;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 17/08/2021 17:40          
+0;17/08/2021;17:42;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 17/08/2021 17:42          
+0;17/08/2021;17:54;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 17/08/2021 17:54       
+0;19/04/2023;20:39;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/04/2023 20:39          
+0;19/04/2023;20:40;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/04/2023 20:40       
+0;25/05/2023;08:34;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 25/05/2023 08:34          
+0;25/05/2023;08:35;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 25/05/2023 08:35       
+0;06/07/2023;14:40;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/07/2023 14:40          
+0;06/07/2023;14:45;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/07/2023 14:45       
+0;06/07/2023;14:46;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/07/2023 14:46          
+2;06/07/2023;14:47;0000 ;Ferias                       ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server inexi
+2;06/07/2023;14:47;0000 ;Ferias                       ;[DBNETLIB][ConnectionOpen (Connect()).]SQL Server inexi
+0;06/07/2023;14:48;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/07/2023 14:48       
+0;06/07/2023;14:50;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/07/2023 14:50          
+0;26/10/2023;09:36;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/10/2023 09:36          
+2;26/10/2023;09:36;0000 ;Novatos                      ;Invalid procedure call or argument                     
+0;26/10/2023;09:36;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 26/10/2023 09:36       
+0;26/10/2023;09:37;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/10/2023 09:37          
+2;26/10/2023;09:38;0000 ;Novatos                      ;Invalid procedure call or argument                     
+0;26/10/2023;09:40;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 26/10/2023 09:40          
+0;30/11/2023;13:03;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 30/11/2023 13:03          
+0;30/11/2023;13:04;0000 ;Novatos                      ;Nao ha Novatos no periodo de 30/11/2023 13:04          
+0;30/11/2023;13:04;1218 ;Ferias                       ;Retorno de Ferias Periodo de 27/11/2023 a 16/12/2023   
+0;30/11/2023;13:04;3916 ;Ferias                       ;Retorno de Ferias Periodo de 27/11/2023 a 26/12/2023   
+0;30/11/2023;13:04;4112 ;Ferias                       ;Retorno de Ferias Periodo de 27/11/2023 a 26/12/2023   
+0;30/11/2023;13:04;3529 ;Ferias                       ;Entrando de Ferias Periodo de 06/11/2023 a 29/11/2023  
+0;30/11/2023;13:04;3921 ;Ferias                       ;Entrando de Ferias Periodo de 06/11/2023 a 29/11/2023  
+0;30/11/2023;13:04;4259 ;Ferias                       ;Entrando de Ferias Periodo de 06/11/2023 a 29/11/2023  
+0;30/11/2023;13:04;4334 ;Ferias                       ;Entrando de Ferias Periodo de 30/10/2023 a 28/11/2023  
+0;30/11/2023;13:05;00619;Afastados                    ;Afastando no Inicio de 02/02/2000                      
+0;30/11/2023;13:05;01361;Afastados                    ;Afastando no Inicio de 26/09/2022 a 29/06/2023         
+0;30/11/2023;13:05;02347;Afastados                    ;Afastando no Inicio de 27/03/2010                      
+0;30/11/2023;13:05;02577;Afastados                    ;Afastando no Inicio de 13/11/2023                      
+0;30/11/2023;13:05;02590;Afastados                    ;Afastando no Inicio de 15/02/2015                      
+0;30/11/2023;13:05;02596;Afastados                    ;Afastando no Inicio de 01/03/2023 a 31/10/2023         
+0;30/11/2023;13:05;02724;Afastados                    ;Afastando no Inicio de 29/05/2023 a 01/10/2023         
+0;30/11/2023;13:05;02731;Afastados                    ;Afastando no Inicio de 05/08/2016                      
+0;30/11/2023;13:05;02827;Afastados                    ;Afastando no Inicio de 13/04/2023 a 04/07/2023         
+0;30/11/2023;13:05;02867;Afastados                    ;Afastando no Inicio de 19/01/2009                      
+0;30/11/2023;13:05;02925;Afastados                    ;Afastando no Inicio de 18/10/2013                      
+0;30/11/2023;13:05;02936;Afastados                    ;Afastando no Inicio de 13/06/2023 a 22/11/2023         
+0;30/11/2023;13:05;02954;Afastados                    ;Afastando no Inicio de 02/05/2023 a 03/07/2023         
+0;30/11/2023;13:05;03096;Afastados                    ;Afastando no Inicio de 13/03/2023 a 15/06/2023         
+0;30/11/2023;13:05;03657;Afastados                    ;Afastando no Inicio de 23/05/2023 a 25/07/2023         
+0;30/11/2023;13:05;03668;Afastados                    ;Afastando no Inicio de 16/01/2013                      
+0;30/11/2023;13:05;03736;Afastados                    ;Afastando no Inicio de 08/11/2023                      
+0;30/11/2023;13:05;03989;Afastados                    ;Retorno de Afastamento Periodo de 14/07/2023 a 10/11/20
+0;30/11/2023;13:05;04260;Afastados                    ;Afastando no Inicio de 02/08/2023 a 28/08/2023         
+0;30/11/2023;13:05;04331;Afastados                    ;Afastando no Inicio de 02/12/2022 a 18/06/2023         
+0;30/11/2023;13:05;04347;Afastados                    ;Afastando no Inicio de 31/07/2023 a 13/09/2023         
+0;30/11/2023;13:05;1880 ;Desligados                   ;Desligamento funcionario, data Periodo de '20231031'   
+0;30/11/2023;13:05;4417 ;Desligados                   ;Desligamento funcionario, data Periodo de '20231031'   
+0;30/11/2023;13:05;0000 ;Desligados                   ;Nao ha Desligamento no periodo de 30/11/2023 13:05     
+0;30/11/2023;13:06;0000 ;Mudança Setor                ;Nao ha Mudancas de Secao no periodo de 30/11/2023 13:06
+0;30/11/2023;13:06;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 30/11/2023 13:06       
+0;01/08/2024;17:34;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 01/08/2024 17:34          
+0;16/09/2024;10:27;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 16/09/2024 10:27          
+0;16/09/2024;10:28;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 16/09/2024 10:28       

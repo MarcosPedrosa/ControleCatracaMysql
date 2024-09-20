@@ -1,0 +1,6 @@
+1	Master		2
+2	Liberada	2
+3	Bloqueada	0
+4	Férias		1
+5	Afastado	0
+6	Licença Médica	0

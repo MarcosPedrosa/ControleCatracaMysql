@@ -1,0 +1,5 @@
+MDACESSO;sa;F396B50 //banco rodbel
+CorporeRM;pedrosa;eFoTVir$Jhw7YZb //bbanco corpore rm
+New_Ged;pedrosa;eFoTVir$Jhw7YZb //bbanco Ged(não usado, mas não retirar)
+Valetrp;pedrosa;eFoTVir$Jhw7YZb //banco do VT(não usado, mas não retirar)
+NFE;pedrosa;eFoTVir$Jhw7YZb //banco do NFE(não usado, mas não retirar)

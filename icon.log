@@ -1,0 +1,171 @@
+Line 37: Class MSComCtl2.DTPicker of control txt_time_Hora_Bat_Ponto was not a loaded control class.
+Line 97: Class MSComCtl2.DTPicker of control txt_time_Func_Afast_Ini was not a loaded control class.
+Line 121: Class MSComCtl2.DTPicker of control txt_time_Func_Afast_Fim was not a loaded control class.
+Line 200: Class MSComCtl2.DTPicker of control txt_time_Hora_Real_Ged was not a loaded control class.
+Line 259: Class MSComCtl2.DTPicker of control txt_time_Cad_Funcao_Secao_Ged was not a loaded control class.
+Line 319: Class MSComCtl2.DTPicker of control txt_time_Hora_Status_NFE was not a loaded control class.
+Line 379: Class MSComCtl2.DTPicker of control txt_time_Func_HE_Ext_Nautor was not a loaded control class.
+Line 457: Class MSComCtl2.DTPicker of control txt_time_Func_HE_Ext_Nautor_RH was not a loaded control class.
+Line 555: Class MSComCtl2.DTPicker of control txt_time_Func_Muda_Turno was not a loaded control class.
+Line 627: Class MSComctlLib.ProgressBar of control Pr_Prog was not a loaded control class.
+Line 677: Class MSComCtl2.DTPicker of control DT_Filtro_ini was not a loaded control class.
+Line 698: Class MSComCtl2.DTPicker of control DT_Filtro_fim was not a loaded control class.
+Line 719: Class MSComCtl2.DTPicker of control DT_Hora_ini was not a loaded control class.
+Line 741: Class MSComCtl2.DTPicker of control DT_Hora_fim was not a loaded control class.
+Line 933: Class MSComCtl2.DTPicker of control txt_time_Func_Atest_Ini was not a loaded control class.
+Line 957: Class MSComCtl2.DTPicker of control txt_time_Func_Atest_Fim was not a loaded control class.
+Line 1054: Class MSComCtl2.DTPicker of control DT_Pesquisa was not a loaded control class.
+Line 1163: Class MSComCtl2.DTPicker of control txt_time_Func_Muda_Setor was not a loaded control class.
+Line 1222: Class MSComCtl2.DTPicker of control txt_time_Func_Desligados was not a loaded control class.
+Line 1335: Class MSComCtl2.DTPicker of control Dt_Abono was not a loaded control class.
+Line 1395: Class MSComCtl2.DTPicker of control txt_time_Func_ferias was not a loaded control class.
+Line 1460: Class MSComCtl2.DTPicker of control txt_time_Func_Novo1 was not a loaded control class.
+Line 1484: Class MSComCtl2.DTPicker of control txt_time_Func_Novo2 was not a loaded control class.
+Line 43: The property name _ExtentX in txt_time_Hora_Bat_Ponto is invalid.
+Line 44: The property name _ExtentY in txt_time_Hora_Bat_Ponto is invalid.
+Line 45: The property name _Version in txt_time_Hora_Bat_Ponto is invalid.
+Line 55: The property name Format in txt_time_Hora_Bat_Ponto is invalid.
+Line 56: The property name UpDown in txt_time_Hora_Bat_Ponto is invalid.
+Line 57: The property name CurrentDate in txt_time_Hora_Bat_Ponto is invalid.
+Line 103: The property name _ExtentX in txt_time_Func_Afast_Ini is invalid.
+Line 104: The property name _ExtentY in txt_time_Func_Afast_Ini is invalid.
+Line 105: The property name _Version in txt_time_Func_Afast_Ini is invalid.
+Line 115: The property name CalendarForeColor in txt_time_Func_Afast_Ini is invalid.
+Line 116: The property name CalendarTitleForeColor in txt_time_Func_Afast_Ini is invalid.
+Line 117: The property name Format in txt_time_Func_Afast_Ini is invalid.
+Line 118: The property name UpDown in txt_time_Func_Afast_Ini is invalid.
+Line 119: The property name CurrentDate in txt_time_Func_Afast_Ini is invalid.
+Line 127: The property name _ExtentX in txt_time_Func_Afast_Fim is invalid.
+Line 128: The property name _ExtentY in txt_time_Func_Afast_Fim is invalid.
+Line 129: The property name _Version in txt_time_Func_Afast_Fim is invalid.
+Line 139: The property name CalendarForeColor in txt_time_Func_Afast_Fim is invalid.
+Line 140: The property name Format in txt_time_Func_Afast_Fim is invalid.
+Line 141: The property name UpDown in txt_time_Func_Afast_Fim is invalid.
+Line 142: The property name CurrentDate in txt_time_Func_Afast_Fim is invalid.
+Line 206: The property name _ExtentX in txt_time_Hora_Real_Ged is invalid.
+Line 207: The property name _ExtentY in txt_time_Hora_Real_Ged is invalid.
+Line 208: The property name _Version in txt_time_Hora_Real_Ged is invalid.
+Line 218: The property name Format in txt_time_Hora_Real_Ged is invalid.
+Line 219: The property name UpDown in txt_time_Hora_Real_Ged is invalid.
+Line 220: The property name CurrentDate in txt_time_Hora_Real_Ged is invalid.
+Line 265: The property name _ExtentX in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 266: The property name _ExtentY in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 267: The property name _Version in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 277: The property name Format in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 278: The property name UpDown in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 279: The property name CurrentDate in txt_time_Cad_Funcao_Secao_Ged is invalid.
+Line 325: The property name _ExtentX in txt_time_Hora_Status_NFE is invalid.
+Line 326: The property name _ExtentY in txt_time_Hora_Status_NFE is invalid.
+Line 327: The property name _Version in txt_time_Hora_Status_NFE is invalid.
+Line 337: The property name Format in txt_time_Hora_Status_NFE is invalid.
+Line 338: The property name UpDown in txt_time_Hora_Status_NFE is invalid.
+Line 339: The property name CurrentDate in txt_time_Hora_Status_NFE is invalid.
+Line 385: The property name _ExtentX in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 386: The property name _ExtentY in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 387: The property name _Version in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 397: The property name Format in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 398: The property name UpDown in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 399: The property name CurrentDate in txt_time_Func_HE_Ext_Nautor is invalid.
+Line 463: The property name _ExtentX in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 464: The property name _ExtentY in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 465: The property name _Version in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 475: The property name Format in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 476: The property name UpDown in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 477: The property name CurrentDate in txt_time_Func_HE_Ext_Nautor_RH is invalid.
+Line 561: The property name _ExtentX in txt_time_Func_Muda_Turno is invalid.
+Line 562: The property name _ExtentY in txt_time_Func_Muda_Turno is invalid.
+Line 563: The property name _Version in txt_time_Func_Muda_Turno is invalid.
+Line 573: The property name Format in txt_time_Func_Muda_Turno is invalid.
+Line 574: The property name UpDown in txt_time_Func_Muda_Turno is invalid.
+Line 575: The property name CurrentDate in txt_time_Func_Muda_Turno is invalid.
+Line 634: The property name _ExtentX in Pr_Prog is invalid.
+Line 635: The property name _ExtentY in Pr_Prog is invalid.
+Line 636: The property name _Version in Pr_Prog is invalid.
+Line 638: The property name Min in Pr_Prog is invalid.
+Line 639: The property name Scrolling in Pr_Prog is invalid.
+Line 683: The property name _ExtentX in DT_Filtro_ini is invalid.
+Line 684: The property name _ExtentY in DT_Filtro_ini is invalid.
+Line 685: The property name _Version in DT_Filtro_ini is invalid.
+Line 695: The property name Format in DT_Filtro_ini is invalid.
+Line 696: The property name CurrentDate in DT_Filtro_ini is invalid.
+Line 704: The property name _ExtentX in DT_Filtro_fim is invalid.
+Line 705: The property name _ExtentY in DT_Filtro_fim is invalid.
+Line 706: The property name _Version in DT_Filtro_fim is invalid.
+Line 716: The property name Format in DT_Filtro_fim is invalid.
+Line 717: The property name CurrentDate in DT_Filtro_fim is invalid.
+Line 725: The property name _ExtentX in DT_Hora_ini is invalid.
+Line 726: The property name _ExtentY in DT_Hora_ini is invalid.
+Line 727: The property name _Version in DT_Hora_ini is invalid.
+Line 737: The property name Format in DT_Hora_ini is invalid.
+Line 738: The property name UpDown in DT_Hora_ini is invalid.
+Line 739: The property name CurrentDate in DT_Hora_ini is invalid.
+Line 747: The property name _ExtentX in DT_Hora_fim is invalid.
+Line 748: The property name _ExtentY in DT_Hora_fim is invalid.
+Line 749: The property name _Version in DT_Hora_fim is invalid.
+Line 759: The property name CalendarBackColor in DT_Hora_fim is invalid.
+Line 760: The property name Format in DT_Hora_fim is invalid.
+Line 761: The property name UpDown in DT_Hora_fim is invalid.
+Line 762: The property name CurrentDate in DT_Hora_fim is invalid.
+Line 939: The property name _ExtentX in txt_time_Func_Atest_Ini is invalid.
+Line 940: The property name _ExtentY in txt_time_Func_Atest_Ini is invalid.
+Line 941: The property name _Version in txt_time_Func_Atest_Ini is invalid.
+Line 951: The property name CalendarForeColor in txt_time_Func_Atest_Ini is invalid.
+Line 952: The property name CalendarTitleForeColor in txt_time_Func_Atest_Ini is invalid.
+Line 953: The property name Format in txt_time_Func_Atest_Ini is invalid.
+Line 954: The property name UpDown in txt_time_Func_Atest_Ini is invalid.
+Line 955: The property name CurrentDate in txt_time_Func_Atest_Ini is invalid.
+Line 963: The property name _ExtentX in txt_time_Func_Atest_Fim is invalid.
+Line 964: The property name _ExtentY in txt_time_Func_Atest_Fim is invalid.
+Line 965: The property name _Version in txt_time_Func_Atest_Fim is invalid.
+Line 975: The property name CalendarForeColor in txt_time_Func_Atest_Fim is invalid.
+Line 976: The property name Format in txt_time_Func_Atest_Fim is invalid.
+Line 977: The property name UpDown in txt_time_Func_Atest_Fim is invalid.
+Line 978: The property name CurrentDate in txt_time_Func_Atest_Fim is invalid.
+Line 1060: The property name _ExtentX in DT_Pesquisa is invalid.
+Line 1061: The property name _ExtentY in DT_Pesquisa is invalid.
+Line 1062: The property name _Version in DT_Pesquisa is invalid.
+Line 1072: The property name Format in DT_Pesquisa is invalid.
+Line 1073: The property name CurrentDate in DT_Pesquisa is invalid.
+Line 1169: The property name _ExtentX in txt_time_Func_Muda_Setor is invalid.
+Line 1170: The property name _ExtentY in txt_time_Func_Muda_Setor is invalid.
+Line 1171: The property name _Version in txt_time_Func_Muda_Setor is invalid.
+Line 1181: The property name Format in txt_time_Func_Muda_Setor is invalid.
+Line 1182: The property name UpDown in txt_time_Func_Muda_Setor is invalid.
+Line 1183: The property name CurrentDate in txt_time_Func_Muda_Setor is invalid.
+Line 1228: The property name _ExtentX in txt_time_Func_Desligados is invalid.
+Line 1229: The property name _ExtentY in txt_time_Func_Desligados is invalid.
+Line 1230: The property name _Version in txt_time_Func_Desligados is invalid.
+Line 1240: The property name Format in txt_time_Func_Desligados is invalid.
+Line 1241: The property name UpDown in txt_time_Func_Desligados is invalid.
+Line 1242: The property name CurrentDate in txt_time_Func_Desligados is invalid.
+Line 1341: The property name _ExtentX in Dt_Abono is invalid.
+Line 1342: The property name _ExtentY in Dt_Abono is invalid.
+Line 1343: The property name _Version in Dt_Abono is invalid.
+Line 1353: The property name Format in Dt_Abono is invalid.
+Line 1354: The property name CurrentDate in Dt_Abono is invalid.
+Line 1401: The property name _ExtentX in txt_time_Func_ferias is invalid.
+Line 1402: The property name _ExtentY in txt_time_Func_ferias is invalid.
+Line 1403: The property name _Version in txt_time_Func_ferias is invalid.
+Line 1413: The property name CalendarBackColor in txt_time_Func_ferias is invalid.
+Line 1414: The property name CalendarForeColor in txt_time_Func_ferias is invalid.
+Line 1415: The property name CalendarTitleBackColor in txt_time_Func_ferias is invalid.
+Line 1416: The property name CalendarTitleForeColor in txt_time_Func_ferias is invalid.
+Line 1417: The property name CalendarTrailingForeColor in txt_time_Func_ferias is invalid.
+Line 1418: The property name Format in txt_time_Func_ferias is invalid.
+Line 1419: The property name UpDown in txt_time_Func_ferias is invalid.
+Line 1420: The property name CurrentDate in txt_time_Func_ferias is invalid.
+Line 1466: The property name _ExtentX in txt_time_Func_Novo1 is invalid.
+Line 1467: The property name _ExtentY in txt_time_Func_Novo1 is invalid.
+Line 1468: The property name _Version in txt_time_Func_Novo1 is invalid.
+Line 1478: The property name CalendarForeColor in txt_time_Func_Novo1 is invalid.
+Line 1479: The property name CalendarTitleForeColor in txt_time_Func_Novo1 is invalid.
+Line 1480: The property name Format in txt_time_Func_Novo1 is invalid.
+Line 1481: The property name UpDown in txt_time_Func_Novo1 is invalid.
+Line 1482: The property name CurrentDate in txt_time_Func_Novo1 is invalid.
+Line 1490: The property name _ExtentX in txt_time_Func_Novo2 is invalid.
+Line 1491: The property name _ExtentY in txt_time_Func_Novo2 is invalid.
+Line 1492: The property name _Version in txt_time_Func_Novo2 is invalid.
+Line 1502: The property name CalendarForeColor in txt_time_Func_Novo2 is invalid.
+Line 1503: The property name Format in txt_time_Func_Novo2 is invalid.
+Line 1504: The property name UpDown in txt_time_Func_Novo2 is invalid.
+Line 1505: The property name CurrentDate in txt_time_Func_Novo2 is invalid.

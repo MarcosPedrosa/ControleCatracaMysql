@@ -1,0 +1,10 @@
+delete from GED_TAB_ITEM_SOLICITACAO where 
+      ITS_SOL_CODIGO in ( select sol_codigo from 
+          GED_TAB_SOLICITACAO where 
+   SOL_DATA_EMISSAO >  '20120301'    and SOL_JUSTIFICATIVA_MOTIVO = 
+     'Hora Extra sem planejamento' )
+     
+Delete  from GED_TAB_SOLICITACAO where 
+   SOL_DATA_EMISSAO > '20120301'  and SOL_JUSTIFICATIVA_MOTIVO = 
+     'Hora Extra sem planejamento'     
+     

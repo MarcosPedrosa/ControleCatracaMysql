@@ -1,0 +1,8 @@
+sSetor	String	5	
+sChapa	String	5	
+sNome	String	30	
+sFuncao	String	20	
+sData	String	10	
+sTotal_solicitada	String	6	
+sTotal_real	String	6	
+sDiferenca	String	6	

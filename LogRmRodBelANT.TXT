@@ -1,0 +1,148 @@
+0;06/06/2016;09:18;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 09:18          
+0;06/06/2016;09:52;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 09:52          
+0;06/06/2016;09:53;01881;Afastados                    ;Afastando no Inicio de 27/06/2016 a 10/07/2016         
+0;06/06/2016;10:27;01881;Afastados                    ;Retorno de Afastamento Periodo de 27/06/2016 a 10/07/20
+0;06/06/2016;10:32;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 10:32      
+0;06/06/2016;10:44;01881;Afastados                    ;Retorno de Afastamento Periodo de 27/06/2016 a 10/07/20
+0;06/06/2016;10:44;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 10:44       
+0;06/06/2016;10:44;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 10:44          
+0;06/06/2016;10:44;0000 ;Novatos                      ;Nao ha Novatos no periodo de 06/06/2016 10:44          
+0;06/06/2016;10:45;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 10:45      
+0;06/06/2016;10:45;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 10:45       
+0;06/06/2016;10:56;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 10:56          
+0;06/06/2016;10:57;01881;Afastados                    ;Afastando no Inicio de 06/06/2016 a 12/06/2016         
+0;06/06/2016;10:57;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 10:57       
+0;06/06/2016;10:57;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 10:57          
+0;06/06/2016;10:58;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 10:58      
+0;06/06/2016;10:58;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 10:58       
+0;06/06/2016;11:05;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 11:05          
+0;06/06/2016;11:05;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 11:05      
+0;06/06/2016;11:20;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 11:20          
+0;06/06/2016;11:54;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 11:54          
+0;06/06/2016;13:09;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 13:09          
+0;06/06/2016;13:12;0000 ;Ferias                       ;Nao ha Ferias no periodo de 06/06/2016 13:12           
+0;27/06/2016;13:12;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 27/06/2016 13:12          
+0;27/06/2016;13:16;1881 ;Ferias                       ;Entrando de Ferias Periodo de 27/06/2016 a 11/07/2016  
+0;27/06/2016;13:16;0000 ;Ferias                       ;Nao ha Ferias no periodo de 27/06/2016 13:16           
+0;10/07/2016;13:26;0000 ;Ferias                       ;Nao ha Ferias no periodo de 10/07/2016 13:26           
+0;10/07/2016;13:26;0000 ;Ferias                       ;Nao ha Ferias no periodo de 10/07/2016 13:26           
+0;11/07/2016;13:27;1881 ;Ferias                       ;Retorno de Ferias Periodo de 27/06/2016 a 11/07/2016   
+0;11/07/2016;13:27;0000 ;Ferias                       ;Nao ha Ferias no periodo de 11/07/2016 13:27           
+0;11/07/2016;13:30;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 11/07/2016 13:30       
+0;06/06/2016;13:32;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 13:32          
+0;06/06/2016;13:32;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 13:32       
+0;06/06/2016;14:15;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 14:15          
+0;06/06/2016;14:16;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 14:16      
+0;27/06/2016;14:23;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 27/06/2016 14:23      
+0;27/06/2016;14:23;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 27/06/2016 14:23       
+0;27/06/2016;14:23;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 27/06/2016 14:23          
+0;27/06/2016;14:25;01881;Afastados                    ;Afastando no Inicio de 27/06/2016 a 11/07/2016         
+0;11/07/2016;14:36;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 11/07/2016 14:36          
+0;11/07/2016;14:37;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 11/07/2016 14:37      
+0;11/07/2016;14:38;01881;Afastados                    ;Retorno de Afastamento Periodo de 27/06/2016 a 11/07/20
+0;11/07/2016;14:38;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 11/07/2016 14:38       
+0;11/07/2016;14:40;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 11/07/2016 14:40          
+0;11/07/2016;14:40;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 11/07/2016 14:40       
+0;06/06/2016;14:41;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 06/06/2016 14:41          
+0;06/06/2016;14:42;0000 ;Afastados                    ;Nao ha Afastamento no periodo de 06/06/2016 14:42      
+0;06/06/2016;14:42;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 06/06/2016 14:42       
+0;09/09/2016;11:56;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 09/09/2016 11:56          
+0;09/09/2016;11:56;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 09/09/2016 11:56       
+0;09/09/2016;17:22;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 09/09/2016 17:22          
+0;19/10/2016;10:14;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 10:14          
+2;19/10/2016;10:29;0000 ;CadFunSet                    ;Invalid object name 'GED_TAB_SOLICITACAO'.             
+0;19/10/2016;11:31;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 11:31          
+2;19/10/2016;11:32;0000 ;CadFunSet                    ;O comando de texto não foi definido para o objeto de co
+2;19/10/2016;11:32;0000 ;CadFunSet                    ;Subscript out of range                                 
+2;19/10/2016;11:33;0000 ;CadFunSet                    ;Subscript out of range                                 
+0;19/10/2016;11:41;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 11:41          
+0;19/10/2016;14:06;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 14:06          
+2;19/10/2016;14:07;0000 ;CadFunSet                    ;BOF ou EOF são verdadeiros, ou o registro atual foi exc
+2;19/10/2016;14:10;0000 ;CadFunSet                    ;BOF ou EOF são verdadeiros, ou o registro atual foi exc
+2;19/10/2016;14:12;0000 ;CadFunSet                    ;BOF ou EOF são verdadeiros, ou o registro atual foi exc
+0;19/10/2016;14:19;04136;SolBatAjuste                 ;Ajuste Ponto de 2016-09-22 02:15:00 / 2016-09-22 01:40:
+0;19/10/2016;14:21;04136;SolBatAjuste                 ;Ajuste Ponto de 2016-09-21 03:02:00 / 2016-09-21 01:43:
+0;19/10/2016;14:21;03095;SolBatAjuste                 ;Ajuste Ponto de 2016-09-27 06:08:00 / 2016-09-27 06:00:
+0;19/10/2016;14:22;03860;SolBatAjuste                 ;Ajuste Ponto de 2016-09-27 05:09:00 / 2016-09-27 05:29:
+0;19/10/2016;14:22;00525;SolBatAjuste                 ;Ajuste Ponto de 2016-09-26 01:28:00 / 2016-09-26 11:16:
+0;19/10/2016;14:22;03205;SolBatAjuste                 ;Ajuste Ponto de 2016-09-27 06:51:00 / 2016-09-27 07:11:
+0;19/10/2016;14:22;04080;SolBatAjuste                 ;Ajuste Ponto de 2016-09-26 00:07:00 / 2016-09-26 00:02:
+0;19/10/2016;14:22;02514;SolBatAjuste                 ;Ajuste Ponto de 2016-09-26 03:16:00 / 2016-09-26 03:21:
+0;19/10/2016;14:22;03094;SolBatAjuste                 ;Ajuste Ponto de 2016-10-03 01:45:00 / 2016-10-03 01:40:
+0;19/10/2016;14:23;02803;SolBatAjuste                 ;Ajuste Ponto de 2016-10-05 01:44:00 / 2016-10-05 01:49:
+0;19/10/2016;14:23;02063;SolBatAjuste                 ;Ajuste Ponto de 2016-09-17 00:05:00 / 2016-09-17 07:50:
+0;19/10/2016;14:24;01687;SolBatAjuste                 ;Ajuste Ponto de 2016-09-23 02:32:00 / 2016-09-23 02:24:
+0;19/10/2016;14:24;02514;SolBatAjuste                 ;Ajuste Ponto de 2016-09-29 03:21:00 / 2016-09-29 03:26:
+0;19/10/2016;14:24;02514;SolBatAjuste                 ;Ajuste Ponto de 2016-09-23 00:02:00 / 2016-09-23 00:07:
+0;19/10/2016;14:24;02803;SolBatAjuste                 ;Ajuste Ponto de 2016-09-29 01:44:00 / 2016-09-29 01:49:
+0;19/10/2016;14:25;03670;SolBatAjuste                 ;Ajuste Ponto de 2016-09-20 02:46:00 / 2016-09-20 02:41:
+0;19/10/2016;14:25;03670;SolBatAjuste                 ;Ajuste Ponto de 2016-09-19 02:39:00 / 2016-09-19 02:34:
+0;19/10/2016;14:25;03960;SolBatAjuste                 ;Ajuste Ponto de 2016-09-24 00:11:00 / 2016-09-24 07:26:
+0;19/10/2016;14:25;03960;SolBatAjuste                 ;Ajuste Ponto de 2016-09-20 00:06:00 / 2016-09-20 01:40:
+0;19/10/2016;14:26;04136;SolBatAjuste                 ;Ajuste Ponto de 2016-09-23 02:23:00 / 2016-09-23 01:39:
+0;19/10/2016;14:26;03094;SolBatAjuste                 ;Ajuste Ponto de 2016-10-07 01:56:00 / 2016-10-07 01:51:
+0;19/10/2016;14:26;02514;SolBatAjuste                 ;Ajuste Ponto de 2016-10-01 00:07:00 / 2016-10-01 00:12:
+0;19/10/2016;14:27;02902;SolBatAjuste                 ;Ajuste Ponto de 2016-10-01 00:05:00 / 2016-10-01 04:36:
+0;19/10/2016;14:27;03860;SolBatAjuste                 ;Ajuste Ponto de 2016-10-03 04:31:00 / 2016-10-03 04:26:
+0;19/10/2016;14:27;02104;SolBatAjuste                 ;Ajuste Ponto de 2016-10-06 00:04:00 / 2016-10-06 09:59:
+0;19/10/2016;14:28;02514;SolBatAjuste                 ;Ajuste Ponto de 2016-10-06 03:05:00 / 2016-10-06 03:10:
+0;19/10/2016;14:28;02560;SolBatAjuste                 ;Ajuste Ponto de 2016-10-07 00:03:00 / 2016-10-07 15:32:
+0;19/10/2016;14:28;02560;SolBatAjuste                 ;Ajuste Ponto de 2016-10-06 00:06:00 / 2016-10-06 09:49:
+0;19/10/2016;14:28;03406;SolBatAjuste                 ;Ajuste Ponto de 2016-10-06 01:35:00 / 2016-10-06 06:30:
+0;19/10/2016;14:38;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/10/2016 14:38       
+0;19/10/2016;15:03;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 15:03          
+0;19/10/2016;15:05;0000 ;CadFunSet                    ;Nao ha Funcao/Setor no periodo de 19/10/2016 15:05     
+1;19/10/2016;15:06;00351;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;00447;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 423       
+1;19/10/2016;15:06;00589;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;00589;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+0;19/10/2016;15:06;00589;Horas Extras Realizadas      ;Atualizado,00:12:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;00634;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;00634;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;00634;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+0;19/10/2016;15:06;00828;Horas Extras Realizadas      ;Atualizado,00:05:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;00915;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;00915;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+0;19/10/2016;15:06;01144;Horas Extras Realizadas      ;Atualizado,08:05:00 H.Extras em 15-10-2016             
+0;19/10/2016;15:06;01144;Horas Extras Realizadas      ;Atualizado,01:18:00 H.Extras em 14-10-2016             
+1;19/10/2016;15:06;01144;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 631       
+1;19/10/2016;15:06;01355;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 454       
+0;19/10/2016;15:06;01426;Horas Extras Realizadas      ;Atualizado,00:30:00 H.Extras em 10-10-2016             
+0;19/10/2016;15:06;01429;Horas Extras Realizadas      ;Atualizado,00:01:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;01576;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 461       
+1;19/10/2016;15:06;01579;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 161       
+1;19/10/2016;15:06;01663;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 413       
+0;19/10/2016;15:06;01666;Horas Extras Realizadas      ;Atualizado,00:47:00 H.Extras em 14-10-2016             
+1;19/10/2016;15:06;01674;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 472       
+1;19/10/2016;15:06;01699;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 173       
+0;19/10/2016;15:06;01705;Horas Extras Realizadas      ;Atualizado,01:28:00 H.Extras em 11-10-2016             
+1;19/10/2016;15:06;01768;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 431       
+0;19/10/2016;15:06;01777;Horas Extras Realizadas      ;Atualizado,00:50:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;01780;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;01780;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;01808;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 431       
+0;19/10/2016;15:06;01842;Horas Extras Realizadas      ;Atualizado,00:02:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;01862;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 112       
+1;19/10/2016;15:06;01862;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 112       
+0;19/10/2016;15:06;01873;Horas Extras Realizadas      ;Atualizado,00:08:00 H.Extras em 10-10-2016             
+0;19/10/2016;15:06;01881;Horas Extras Realizadas      ;Atualizado,04:26:00 H.Extras em 13-10-2016             
+1;19/10/2016;15:06;01890;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 415       
+1;19/10/2016;15:06;01909;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 461       
+1;19/10/2016;15:06;01909;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 461       
+1;19/10/2016;15:06;01909;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 461       
+1;19/10/2016;15:06;01909;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 461       
+0;19/10/2016;15:06;01909;Horas Extras Realizadas      ;Atualizado,00:11:00 H.Extras em 10-10-2016             
+1;19/10/2016;15:06;01935;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 151       
+0;19/10/2016;15:06;01961;Horas Extras Realizadas      ;Atualizado,07:45:00 H.Extras em 12-10-2016             
+1;19/10/2016;15:06;01984;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 451       
+1;19/10/2016;15:06;02014;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 133       
+1;19/10/2016;15:06;02016;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 136       
+0;19/10/2016;15:06;02016;Horas Extras Realizadas      ;Atualizado,02:44:00 H.Extras em 11-10-2016             
+1;19/10/2016;15:06;02018;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 151       
+1;19/10/2016;15:06;02048;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 431       
+1;19/10/2016;15:06;02053;Horas Realizadas sem Solicita;Incluido Solicitação do func. no GED Setor - 442       
+0;19/10/2016;15:06;02053;Horas Extras Realizadas      ;Atualizado,00:01:00 H.Extras em 10-10-2016             
+0;19/10/2016;15:14;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/10/2016 15:14       
+0;19/10/2016;16:45;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/10/2016 16:45          
+0;20/10/2016;19:34;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 20/10/2016 19:34          
+0;20/10/2016;19:36;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 20/10/2016 19:36       
