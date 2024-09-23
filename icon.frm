@@ -1,6 +1,6 @@
 VERSION 5.00
-Object = "{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0"; "mscomct2.ocx"
-Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "mscomctl.ocx"
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "MSCOMCTL.OCX"
+Object = "{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCT2.OCX"
 Begin VB.Form frmNotfIc 
    BackColor       =   &H8000000A&
    BorderStyle     =   1  'Fixed Single
@@ -52,7 +52,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139132930
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.875
       End
@@ -114,7 +114,7 @@ Begin VB.Form frmNotfIc
          EndProperty
          CalendarForeColor=   32768
          CalendarTitleForeColor=   32768
-         Format          =   139132930
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.5208333333
       End
@@ -137,7 +137,7 @@ Begin VB.Form frmNotfIc
             Strikethrough   =   0   'False
          EndProperty
          CalendarForeColor=   32768
-         Format          =   139132930
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.9791666667
       End
@@ -215,7 +215,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.0833333333
       End
@@ -274,7 +274,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.125
       End
@@ -334,7 +334,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.0034722222
       End
@@ -394,7 +394,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.2083333333
       End
@@ -472,7 +472,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.2083333333
       End
@@ -570,7 +570,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139395074
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.0416666667
       End
@@ -692,7 +692,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139460609
+         Format          =   34930689
          CurrentDate     =   39720
       End
       Begin MSComCtl2.DTPicker DT_Filtro_fim 
@@ -713,7 +713,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139460609
+         Format          =   34930689
          CurrentDate     =   39720
       End
       Begin MSComCtl2.DTPicker DT_Hora_ini 
@@ -734,7 +734,7 @@ Begin VB.Form frmNotfIc
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   139460610
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.0000115741
       End
@@ -757,7 +757,7 @@ Begin VB.Form frmNotfIc
             Strikethrough   =   0   'False
          EndProperty
          CalendarBackColor=   32768
-         Format          =   139460610
+         Format          =   34930690
          UpDown          =   -1  'True
          CurrentDate     =   39716.9999884259
       End
@@ -906,9 +906,9 @@ Begin VB.Form frmNotfIc
       Begin VB.CommandButton Command1 
          Caption         =   "Command1"
          Height          =   585
-         Left            =   6840
+         Left            =   8670
          TabIndex        =   54
-         Top             =   3330
+         Top             =   3360
          Visible         =   0   'False
          Width           =   1425
       End
@@ -950,7 +950,7 @@ Begin VB.Form frmNotfIc
             EndProperty
             CalendarForeColor=   32768
             CalendarTitleForeColor=   32768
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.5208333333
          End
@@ -973,7 +973,7 @@ Begin VB.Form frmNotfIc
                Strikethrough   =   0   'False
             EndProperty
             CalendarForeColor=   32768
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.9791666667
          End
@@ -1069,7 +1069,7 @@ Begin VB.Form frmNotfIc
                Italic          =   0   'False
                Strikethrough   =   0   'False
             EndProperty
-            Format          =   139460609
+            Format          =   34930689
             CurrentDate     =   39721
          End
          Begin VB.Label Label21 
@@ -1178,7 +1178,7 @@ Begin VB.Form frmNotfIc
                Italic          =   0   'False
                Strikethrough   =   0   'False
             EndProperty
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.0416666667
          End
@@ -1237,7 +1237,7 @@ Begin VB.Form frmNotfIc
                Italic          =   0   'False
                Strikethrough   =   0   'False
             EndProperty
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.0416666667
          End
@@ -1350,7 +1350,7 @@ Begin VB.Form frmNotfIc
                   Italic          =   0   'False
                   Strikethrough   =   0   'False
                EndProperty
-               Format          =   139460609
+               Format          =   34930689
                CurrentDate     =   36526
             End
             Begin VB.Label Label4 
@@ -1415,7 +1415,7 @@ Begin VB.Form frmNotfIc
             CalendarTitleBackColor=   65535
             CalendarTitleForeColor=   16711680
             CalendarTrailingForeColor=   65535
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.0416666667
          End
@@ -1477,7 +1477,7 @@ Begin VB.Form frmNotfIc
             EndProperty
             CalendarForeColor=   32768
             CalendarTitleForeColor=   32768
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.5208333333
          End
@@ -1500,7 +1500,7 @@ Begin VB.Form frmNotfIc
                Strikethrough   =   0   'False
             EndProperty
             CalendarForeColor=   32768
-            Format          =   139460610
+            Format          =   34930690
             UpDown          =   -1  'True
             CurrentDate     =   39716.9791666667
          End
